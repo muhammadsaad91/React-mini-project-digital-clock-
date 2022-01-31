@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-mini-project-digital-clock-/static/css/main.5f6d830d.css",
+    "main.css": "/React-mini-project-digital-clock-/static/css/main.a667d6d4.css",
     "main.js": "/React-mini-project-digital-clock-/static/js/main.43608914.js",
     "index.html": "/React-mini-project-digital-clock-/index.html",
-    "main.5f6d830d.css.map": "/React-mini-project-digital-clock-/static/css/main.5f6d830d.css.map",
+    "main.a667d6d4.css.map": "/React-mini-project-digital-clock-/static/css/main.a667d6d4.css.map",
     "main.43608914.js.map": "/React-mini-project-digital-clock-/static/js/main.43608914.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f6d830d.css",
+    "static/css/main.a667d6d4.css",
     "static/js/main.43608914.js"
   ]
 }
